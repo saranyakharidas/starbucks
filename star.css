@@ -1,0 +1,436 @@
+.container{
+    width:100%;
+    height:3179px;
+}
+.header{
+    width:100%;
+    height:100px;
+}
+.logodiv{
+    width: 9%;
+    height:100px;
+    float:left;
+}
+.image{
+    width:50px;
+    height: 50px;
+    margin-top:18px;
+    margin-left:32px;
+}
+.menu{
+    float:left;
+    padding-top:35px;
+    padding-left:10px;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:bold;
+    color:black;
+}
+.rewards{
+    float:left;
+    padding-top:35px;
+    padding-left:20px;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:bold;
+    color:black;
+}
+.giftcards{
+    float:left;
+    padding-top:35px;
+    padding-left:20px;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:bold;
+    color:black;
+}
+.logindiv{
+    float:left;
+    height:100px;
+    width:900px;
+    padding-top:20px;
+}
+.location-symbol{
+    width:28px;
+    height:28px;
+    padding-left:500px;
+    padding-top:10px;
+    float:left;
+    margin-left: 22px;
+    margin-top: 10px;
+}
+.store-locator{
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding-left:550px;
+    font-size:15px;
+    float:left;
+    margin-top: -22px;
+    margin-left: 17px;
+    color:black;
+}
+.button1{
+    margin-left: 132px;
+    color: black;
+    background: white;
+    border-radius: 706px;
+    padding-left: 10px;
+    text-align: center;
+    padding-top: 4px;
+    margin-top: 22px;
+}
+.button2{
+    border-radius: 12px;
+    float: right;
+    margin-top: -24px;
+    margin-right: 38px;
+    color: white;
+    background-color: black;
+    color: white;
+}
+.maincontent{
+    width:100%;
+    height:2135px;
+    background:white;
+}
+.column1{
+    width:100%;
+    height:400px;
+    background:white;
+}
+.content1{
+    width:100%;
+    height:321px;
+    background:white;
+}
+.blank{
+    width:100%;
+    height: 37px;
+    background: white;
+}
+.subcontent1{
+width:50%;
+height:100%;
+float:left;
+background: #1e3932;
+}
+.subcontent2{
+    width:50%;
+    height:100%;
+    float:left;
+    background: rgb(192, 255, 211);
+}
+.innerimage{
+    width: 664px;
+    height: 321px;
+    object-fit: cover;
+}
+.innerdiv1{
+    width: 593px;
+    height: 254px;
+    background:  #1e3932;
+    margin-top: 29px;
+    margin-left: 29px;
+}
+.innerdiv2{
+    width: 530px;
+    height: 217px;
+    background:  #1e3932;
+    margin-top: 40px;
+    margin-left: 29px;
+}
+.text{
+    text-align: center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: white;
+    margin-top: 10px;
+    padding-top: 19px;
+    font-size: 26px;
+    letter-spacing: 1px;
+}
+.text2{
+    width: 527px;
+    text-align: center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: white;
+    font-size:18px;
+    font-weight:none;
+    letter-spacing: 1px;
+}
+.button3{
+    margin-left: 216px;
+    border-radius: 38px;
+    color: white;
+    background: #1e3932;
+    border-color: white;
+    padding: 14px;
+    font-size: 18px;
+}
+.column2{
+    width:100%;
+    height:550px;
+    background:rgb(15, 221, 32);
+}
+.column2subcontent1{
+    width:50%;
+    height:100%;
+    float:left;
+    background:white;
+}
+.column2subcontent2{
+    width:50%;
+    height:100%;
+    float:left;
+    background:#a0c292;
+}
+.image2{
+    width: 667px;
+    height: 550px;
+}
+.text3{
+    text-align: center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 10px;
+    margin-top: 158px;
+    letter-spacing: 1px;
+    color: #1e3932;
+    font-size: 48px
+    
+}
+.text4{
+    text-align:center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 23px;
+    color: #1e3932;
+    font-weight: none;
+}
+.button4{
+    margin-left: 292px;
+    border-radius: 38px;
+    color: #1e3932;
+    background:#a0c292;
+    font-size: 15px;
+    padding: 14px;
+}
+.column3{
+    width:100%;
+    height:600px;
+    background:rgb(15, 221, 32);
+    margin-top: 39px;
+}
+.column3subcontent1{
+    width:50%;
+    height:100%;
+    float:left;
+    background:#f6bfd9;;
+}
+.column3subcontent2{
+    width:50%;
+    height:100%;
+    float:left;
+    background:rgb(12, 173, 39);
+}
+.image3{
+    width: 667px;
+    height: 600px;
+}
+.text5{
+    text-align: center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 10px;
+    margin-top: 158px;
+    letter-spacing: 1px;
+    color: #1e3932;
+    font-size: 48px;
+}
+.text6{
+    text-align:center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 23px;
+    color: #1e3932;
+    font-weight: none;
+}
+.button5{
+    margin-left: 292px;
+    border-radius: 38px;
+    color: #1e3932;
+    background:#f6bfd9;;
+    font-size: 15px;
+    padding: 14px;
+}
+.column4{
+    width:100%;
+    height:600px;
+    background:rgb(15, 221, 32);
+    margin-top: 39px;
+}
+.column4subcontent1{
+    width:50%;
+    height:100%;
+    float:left;
+    background:#f6bfd9;
+}
+.column4subcontent2{
+    width:50%;
+    height:100%;
+    float:left;
+    background:#fff4d4;
+}
+.image4{
+    width: 667px;
+    height: 600px;
+}
+.text7{
+    text-align: center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 10px;
+    margin-top: 153px;
+    letter-spacing: 1px;
+    color: #1e3932;
+    font-size: 50px;
+}
+.text8{
+    text-align:center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    color: #1e3932;
+    font-weight: none;
+}
+.button6{
+    margin-left: 292px;
+    border-radius: 38px;
+    color: #1e3932;
+    background:#fff4d4;
+    font-size: 15px;
+    padding: 14px;
+}
+.column5{
+    width:100%;
+    height:400px;
+    background:rgb(15, 221, 32);
+    margin-top: 140px;
+}
+.column5subcontent1{
+    width:50%;
+    height:100%;
+    float:left;
+    background:#d4e9e2;
+}
+.column5subcontent2{
+    width:50%;
+    height:100%;
+    float:left;
+    background:white;
+}
+.image5{
+    width: 667px;
+    height: 401px;
+}
+.button7{
+    margin-left: 292px;
+    border-radius: 38px;
+    color: #1e3932;
+    background:#d4e9e2;
+    font-size: 15px;
+    padding: 14px;
+}
+.text9{
+    text-align: center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 10px;
+    margin-top: 96px;
+    letter-spacing: 1px;
+    color: #1e3932;
+    font-size: 25px;
+}
+.text10{
+    text-align:center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 23px;
+    color: #1e3932;
+    font-weight: none;
+    margin-top: 18px;
+}
+.sent{
+    width:100%;
+    height:10px;
+    background:white;
+}
+.in-div{
+    width: 800px;
+    height: 75px;
+    background: white;
+    margin-left: 218px; 
+    text-align:center; 
+}
+.textfoot{
+    font-size: 14px;
+    text-align:center;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: -343px;
+    color: black;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding:10px;
+    background-color:white;
+    gap:10px 10px;
+    text-align:left;
+    column-gap:20px;
+    grid-row-gap:10px;
+   
+}
+.footer{
+    margin-top: 69px;
+    border-top: 2px solid #cac6c6;
+    border-bottom:2px solid #cac6c6;
+}
+.grid-items{
+    font-size:20px;
+    text-align:left;
+    padding: 35px;
+    background-color: white;
+    column-gap: 93px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 2.5;
+    letter-spacing: -.01em;
+  }
+  .grid-items a{
+    margin-top:10px;
+    padding-top:20px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: rgba(0,0,0,.58);
+  }
+  .site-links{
+    width:100%;
+    height: 10px;
+    margin-top: 40px;
+  }
+  .logo{
+    width: 30px;
+    height: 30px;
+    margin-left: 26px
+  }
+  .privacy-grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin-top:20px;
+    color:black;
+    padding:20px;
+    gap:10px;
+  }
+  .privacy-grid-items{
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size:15px;
+  }
+  .privacy-grid-items a{
+    text-decoration: none;
+    color: black;
+    padding: 13px;
+    border-right: 1px solid rgba(0,0,0,.58);
+  }
+  .rights{
+    color:rgba(0,0,0,.58);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size:15px;
+    margin-left:30px;
+  }
